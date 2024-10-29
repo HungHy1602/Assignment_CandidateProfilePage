@@ -28,7 +28,10 @@ namespace CandidateManagementWebsite.Pages.CandidateProfilePage
                 return NotFound();
             }
 
-            var candidateprofile = await _context.CandidateProfile.FirstOrDefaultAsync(m => m.CandidateId == id);
+            var candidateprofile = await _context.CandidateProfile
+                .Include(c => c.Posting)
+                .FirstOrDefaultAsync(m => m.CandidateId == id);
+
             if (candidateprofile == null)
             {
                 return NotFound();
@@ -39,5 +42,6 @@ namespace CandidateManagementWebsite.Pages.CandidateProfilePage
             }
             return Page();
         }
+
     }
 }

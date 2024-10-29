@@ -103,6 +103,7 @@ namespace Candidate_DAO
                     existingProfile.Birthday = candidate.Birthday;
                     existingProfile.ProfileShortDescription = candidate.ProfileShortDescription;
                     existingProfile.ProfileUrl = candidate.ProfileUrl;
+                    existingProfile.PostingId = candidate.PostingId;
 
                     context.SaveChanges();
                     isSuccess = true;

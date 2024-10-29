@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Candidate_Repository", "Can
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Candidate_Services", "Candidate_Services\Candidate_Services.csproj", "{49D90A84-BA6E-471E-9813-2744C19C603D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CandidateManagementWebsite", "CandidateManagementWebsite\CandidateManagementWebsite.csproj", "{F337A522-232E-42E2-9E3C-9B4B71A74695}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CandidateManagementWebsite", "CandidateManagementWebsite\CandidateManagementWebsite.csproj", "{F337A522-232E-42E2-9E3C-9B4B71A74695}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

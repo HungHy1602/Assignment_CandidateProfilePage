@@ -3,8 +3,96 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\pages\\candidateprofilepage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\candidateprofilepage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\pages\\candidateprofilepage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\candidateprofilepage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\pages\\candidateprofilepage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\candidateprofilepage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\pages\\candidateprofilepage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\candidateprofilepage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\pages\\candidateprofilepage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\candidateprofilepage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\pages\\candidateprofilepage\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\candidateprofilepage\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\pages\\candidateprofilepage\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\candidateprofilepage\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\pages\\candidateprofilepage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\candidateprofilepage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\pages\\candidateprofilepage\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\candidateprofilepage\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\candidatemanagementwebsite.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\candidatemanagementwebsite.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\pages\\notpermission.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\notpermission.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F6C5B524-DE67-46BA-8015-948F497E569E}|Candidate_DAO\\Candidate_DAO.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidate_dao\\candidateprofiledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6C5B524-DE67-46BA-8015-948F497E569E}|Candidate_DAO\\Candidate_DAO.csproj|solutionrelative:candidate_dao\\candidateprofiledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B263AC-01E6-4385-A3C9-1B57A9A8B106}|Candidate_Repository\\Candidate_Repository.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidate_repository\\candidateprofilerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B263AC-01E6-4385-A3C9-1B57A9A8B106}|Candidate_Repository\\Candidate_Repository.csproj|solutionrelative:candidate_repository\\candidateprofilerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D90A84-BA6E-471E-9813-2744C19C603D}|Candidate_Services\\Candidate_Services.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidate_services\\candidateprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D90A84-BA6E-471E-9813-2744C19C603D}|Candidate_Services\\Candidate_Services.csproj|solutionrelative:candidate_services\\candidateprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B26DEF3F-E163-47B6-96DF-673E2BE2DB98}|CandidateManagement_LeCongHung\\CandidateManagement_LeCongHung.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagement_leconghung\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,44 +107,12 @@
       "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\pages\\candidateprofilepage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\candidateprofilepage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\data\\candidatemanagementwebsitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\data\\candidatemanagementwebsitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\pages\\candidateprofilepage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\candidateprofilepage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\pages\\candidateprofilepage\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\candidateprofilepage\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8F005C3-8F00-4D03-9AAF-5B9E339492C7}|Candidate_BuisinessObjects\\Candidate_BuisinessObjects.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidate_buisinessobjects\\candidateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8F005C3-8F00-4D03-9AAF-5B9E339492C7}|Candidate_BuisinessObjects\\Candidate_BuisinessObjects.csproj|solutionrelative:candidate_buisinessobjects\\candidateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49D90A84-BA6E-471E-9813-2744C19C603D}|Candidate_Services\\Candidate_Services.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidate_services\\candidateprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49D90A84-BA6E-471E-9813-2744C19C603D}|Candidate_Services\\Candidate_Services.csproj|solutionrelative:candidate_services\\candidateprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49D90A84-BA6E-471E-9813-2744C19C603D}|Candidate_Services\\Candidate_Services.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidate_services\\jobpostingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,14 +121,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{49D90A84-BA6E-471E-9813-2744C19C603D}|Candidate_Services\\Candidate_Services.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidate_services\\ijobpostingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49D90A84-BA6E-471E-9813-2744C19C603D}|Candidate_Services\\Candidate_Services.csproj|solutionrelative:candidate_services\\ijobpostingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1B263AC-01E6-4385-A3C9-1B57A9A8B106}|Candidate_Repository\\Candidate_Repository.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidate_repository\\candidateprofilerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1B263AC-01E6-4385-A3C9-1B57A9A8B106}|Candidate_Repository\\Candidate_Repository.csproj|solutionrelative:candidate_repository\\candidateprofilerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49D90A84-BA6E-471E-9813-2744C19C603D}|Candidate_Services\\Candidate_Services.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidate_services\\icandidateprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -95,20 +143,8 @@
       "RelativeMoniker": "D:0:0:{E1B263AC-01E6-4385-A3C9-1B57A9A8B106}|Candidate_Repository\\Candidate_Repository.csproj|solutionrelative:candidate_repository\\icandidateprofilerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8F005C3-8F00-4D03-9AAF-5B9E339492C7}|Candidate_BuisinessObjects\\Candidate_BuisinessObjects.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidate_buisinessobjects\\jobposting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8F005C3-8F00-4D03-9AAF-5B9E339492C7}|Candidate_BuisinessObjects\\Candidate_BuisinessObjects.csproj|solutionrelative:candidate_buisinessobjects\\jobposting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\pages\\candidateprofilepage\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\candidateprofilepage\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F6C5B524-DE67-46BA-8015-948F497E569E}|Candidate_DAO\\Candidate_DAO.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidate_dao\\candidate_dao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F6C5B524-DE67-46BA-8015-948F497E569E}|Candidate_DAO\\Candidate_DAO.csproj|solutionrelative:candidate_dao\\candidate_dao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\pages\\candidateprofilepage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\candidateprofilepage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -121,22 +157,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B26DEF3F-E163-47B6-96DF-673E2BE2DB98}|CandidateManagement_LeCongHung\\CandidateManagement_LeCongHung.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagement_leconghung\\candidateprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B26DEF3F-E163-47B6-96DF-673E2BE2DB98}|CandidateManagement_LeCongHung\\CandidateManagement_LeCongHung.csproj|solutionrelative:candidatemanagement_leconghung\\candidateprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\pages\\candidateprofilepage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\candidateprofilepage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\pages\\candidateprofilepage\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\candidateprofilepage\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\pages\\candidateprofilepage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\candidateprofilepage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidatemanagementwebsite\\pages\\candidateprofilepage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F337A522-232E-42E2-9E3C-9B4B71A74695}|CandidateManagementWebsite\\CandidateManagementWebsite.csproj|solutionrelative:candidatemanagementwebsite\\pages\\candidateprofilepage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49D90A84-BA6E-471E-9813-2744C19C603D}|Candidate_Services\\Candidate_Services.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\candidatemanagement_leconghung\\candidate_services\\hraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -166,35 +186,270 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Create.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Create.cshtml",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T06:14:46.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\Login.cshtml",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\Login.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T07:29:04.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Program.cs",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Program.cs",
+              "RelativeToolTip": "CandidateManagementWebsite\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:04:02.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\Index.cshtml",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T04:36:38.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Index.cshtml.cs",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:14:47.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Edit.cshtml",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T06:14:46.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Edit.cshtml.cs",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:14:46.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:36:41.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Delete.cshtml",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T06:14:47.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Details.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Details.cshtml",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T06:14:46.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Index.cshtml",
               "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Index.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Index.cshtml",
               "RelativeToolTip": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCoAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T06:14:47.259Z"
+              "WhenOpened": "2024-10-04T06:14:47.259Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CandidateProfileService.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\Candidate_Services\\CandidateProfileService.cs",
-              "RelativeDocumentMoniker": "Candidate_Services\\CandidateProfileService.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\Candidate_Services\\CandidateProfileService.cs",
-              "RelativeToolTip": "Candidate_Services\\CandidateProfileService.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAlwC8AAAAIAAAA",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Details.cshtml.cs",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Details.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T07:38:50.502Z"
+              "WhenOpened": "2024-10-04T06:14:46.968Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T08:49:45.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T07:28:36.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Create.cshtml.cs",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Create.cshtml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAlwB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:42:56.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:32:22.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T10:25:39.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CandidateManagementWebsite",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\CandidateManagementWebsite.csproj",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\CandidateManagementWebsite.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\CandidateManagementWebsite.csproj",
+              "RelativeToolTip": "CandidateManagementWebsite\\CandidateManagementWebsite.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-29T07:46:38.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\Error.cshtml",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T07:41:01.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NotPermission.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\NotPermission.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\NotPermission.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\NotPermission.cshtml",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\NotPermission.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T07:44:00.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "JobPostingService.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\Candidate_Services\\JobPostingService.cs",
               "RelativeDocumentMoniker": "Candidate_Services\\JobPostingService.cs",
@@ -206,20 +461,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T03:53:45.777Z",
+              "DocumentIndex": 24,
+              "Title": "CandidateManagement_LeCongHung.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagement_LeCongHung\\CandidateManagement_LeCongHung.csproj",
+              "RelativeDocumentMoniker": "CandidateManagement_LeCongHung\\CandidateManagement_LeCongHung.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagement_LeCongHung\\CandidateManagement_LeCongHung.csproj",
+              "RelativeToolTip": "CandidateManagement_LeCongHung\\CandidateManagement_LeCongHung.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-29T03:31:49.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CandidateProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\Candidate_Services\\CandidateProfileService.cs",
+              "RelativeDocumentMoniker": "Candidate_Services\\CandidateProfileService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\Candidate_Services\\CandidateProfileService.cs",
+              "RelativeToolTip": "Candidate_Services\\CandidateProfileService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:38:50.502Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 21,
+              "Title": "CandidateProfileRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\Candidate_Repository\\CandidateProfileRepo.cs",
+              "RelativeDocumentMoniker": "Candidate_Repository\\CandidateProfileRepo.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\Candidate_Repository\\CandidateProfileRepo.cs",
+              "RelativeToolTip": "Candidate_Repository\\CandidateProfileRepo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBYAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:41:08.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CandidateProfileDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\Candidate_DAO\\CandidateProfileDAO.cs",
+              "RelativeDocumentMoniker": "Candidate_DAO\\CandidateProfileDAO.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\Candidate_DAO\\CandidateProfileDAO.cs",
+              "RelativeToolTip": "Candidate_DAO\\CandidateProfileDAO.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowGsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:43:05.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagement_LeCongHung\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "CandidateManagement_LeCongHung\\MainWindow.xaml.cs",
@@ -227,62 +520,23 @@
               "RelativeToolTip": "CandidateManagement_LeCongHung\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T02:55:11.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T02:55:11.142Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CandidateProfileDAO.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\Candidate_DAO\\CandidateProfileDAO.cs",
-              "RelativeDocumentMoniker": "Candidate_DAO\\CandidateProfileDAO.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\Candidate_DAO\\CandidateProfileDAO.cs",
-              "RelativeToolTip": "Candidate_DAO\\CandidateProfileDAO.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAiwGoAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T07:43:05.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Index.cshtml.cs",
-              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Index.cshtml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T06:14:47.364Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CandidateManagement_LeCongHung",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagement_LeCongHung\\CandidateManagement_LeCongHung.csproj",
-              "RelativeDocumentMoniker": "CandidateManagement_LeCongHung\\CandidateManagement_LeCongHung.csproj",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagement_LeCongHung\\CandidateManagement_LeCongHung.csproj",
-              "RelativeToolTip": "CandidateManagement_LeCongHung\\CandidateManagement_LeCongHung.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-29T03:31:49.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\_ViewImports.cshtml",
-              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T08:49:45.448Z"
+              "WhenOpened": "2024-10-11T03:53:45.777Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 29,
               "Title": "IJobPostingService.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\Candidate_Services\\IJobPostingService.cs",
               "RelativeDocumentMoniker": "Candidate_Services\\IJobPostingService.cs",
@@ -294,7 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 26,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\appsettings.Development.json",
               "RelativeDocumentMoniker": "CandidateManagementWebsite\\appsettings.Development.json",
@@ -306,43 +560,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CandidateProfileRepo.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\Candidate_Repository\\CandidateProfileRepo.cs",
-              "RelativeDocumentMoniker": "Candidate_Repository\\CandidateProfileRepo.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\Candidate_Repository\\CandidateProfileRepo.cs",
-              "RelativeToolTip": "Candidate_Repository\\CandidateProfileRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBYAAABRAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T07:41:08.936Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\Index.cshtml",
-              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T04:36:38.955Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CandidateProfile.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\Candidate_BuisinessObjects\\CandidateProfile.cs",
-              "RelativeDocumentMoniker": "Candidate_BuisinessObjects\\CandidateProfile.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\Candidate_BuisinessObjects\\CandidateProfile.cs",
-              "RelativeToolTip": "Candidate_BuisinessObjects\\CandidateProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T02:48:46.373Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 27,
               "Title": "CandidateManagementWebsiteContext.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Data\\CandidateManagementWebsiteContext.cs",
               "RelativeDocumentMoniker": "CandidateManagementWebsite\\Data\\CandidateManagementWebsiteContext.cs",
@@ -354,43 +572,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Program.cs",
-              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Program.cs",
-              "RelativeToolTip": "CandidateManagementWebsite\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T10:04:02.495Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Edit.cshtml.cs",
-              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Edit.cshtml.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAwEwAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T06:14:46.787Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\Index.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T04:36:41.657Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 30,
               "Title": "ICandidateProfileService.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\Candidate_Services\\ICandidateProfileService.cs",
               "RelativeDocumentMoniker": "Candidate_Services\\ICandidateProfileService.cs",
@@ -402,7 +584,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 31,
               "Title": "HRAccountDAO.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\Candidate_DAO\\HRAccountDAO.cs",
               "RelativeDocumentMoniker": "Candidate_DAO\\HRAccountDAO.cs",
@@ -414,7 +596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 32,
               "Title": "CandidateManagementContext.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\Candidate_DAO\\CandidateManagementContext.cs",
               "RelativeDocumentMoniker": "Candidate_DAO\\CandidateManagementContext.cs",
@@ -426,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 33,
               "Title": "CandidateProfileWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagement_LeCongHung\\CandidateProfileWindow.xaml.cs",
               "RelativeDocumentMoniker": "CandidateManagement_LeCongHung\\CandidateProfileWindow.xaml.cs",
@@ -438,7 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 34,
               "Title": "ICandidateProfileRepo.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\Candidate_Repository\\ICandidateProfileRepo.cs",
               "RelativeDocumentMoniker": "Candidate_Repository\\ICandidateProfileRepo.cs",
@@ -450,31 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "JobPosting.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\Candidate_BuisinessObjects\\JobPosting.cs",
-              "RelativeDocumentMoniker": "Candidate_BuisinessObjects\\JobPosting.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\Candidate_BuisinessObjects\\JobPosting.cs",
-              "RelativeToolTip": "Candidate_BuisinessObjects\\JobPosting.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T02:48:42.135Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Create.cshtml.cs",
-              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Create.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBgAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T06:14:46.603Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 35,
               "Title": "Candidate_DAO.csproj",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\Candidate_DAO\\Candidate_DAO.csproj",
               "RelativeDocumentMoniker": "Candidate_DAO\\Candidate_DAO.csproj",
@@ -482,24 +640,11 @@
               "RelativeToolTip": "Candidate_DAO\\Candidate_DAO.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-11T04:04:53.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T04:04:53.987Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Create.cshtml",
-              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Create.cshtml",
-              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Create.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAADAAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T06:14:46.046Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 36,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\appsettings.json",
               "RelativeDocumentMoniker": "CandidateManagementWebsite\\appsettings.json",
@@ -511,7 +656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 37,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Delete.cshtml.cs",
@@ -523,7 +668,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 38,
               "Title": "CandidateProfileWindow.xaml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagement_LeCongHung\\CandidateProfileWindow.xaml",
               "RelativeDocumentMoniker": "CandidateManagement_LeCongHung\\CandidateProfileWindow.xaml",
@@ -534,55 +679,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Delete.cshtml",
-              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Delete.cshtml",
-              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T06:14:47.064Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Details.cshtml.cs",
-              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Details.cshtml.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Details.cshtml.cs",
-              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Details.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T06:14:46.968Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Details.cshtml",
-              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Details.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Details.cshtml",
-              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T06:14:46.88Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Edit.cshtml",
-              "RelativeDocumentMoniker": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Edit.cshtml",
-              "RelativeToolTip": "CandidateManagementWebsite\\Pages\\CandidateProfilePage\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T06:14:46.699Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 39,
               "Title": "HRAccountService.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\Candidate_Services\\HRAccountService.cs",
               "RelativeDocumentMoniker": "Candidate_Services\\HRAccountService.cs",
@@ -594,7 +691,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 40,
               "Title": "Hraccount.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\Candidate_BuisinessObjects\\Hraccount.cs",
               "RelativeDocumentMoniker": "Candidate_BuisinessObjects\\Hraccount.cs",
@@ -606,7 +703,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 41,
               "Title": "IHRAccountService.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\Candidate_Services\\IHRAccountService.cs",
               "RelativeDocumentMoniker": "Candidate_Services\\IHRAccountService.cs",
@@ -618,7 +715,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 42,
               "Title": "IHRAccountRepo.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\Candidate_Repository\\IHRAccountRepo.cs",
               "RelativeDocumentMoniker": "Candidate_Repository\\IHRAccountRepo.cs",
@@ -630,7 +727,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 43,
               "Title": "JobPostingRepo.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\CandidateManagement_LeCongHung\\Candidate_Repository\\JobPostingRepo.cs",
               "RelativeDocumentMoniker": "Candidate_Repository\\JobPostingRepo.cs",

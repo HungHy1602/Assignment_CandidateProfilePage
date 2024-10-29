@@ -27,5 +27,10 @@ namespace CandidateManagementWebsite.Pages.CandidateProfilePage
             CandidateProfile = candidateProfileService.GetCandidateProfiles();
         }
 
+        public async Task<IActionResult> OnPostLogoutAsync()
+        {
+            return RedirectToPage("/Login");
+        }
+
     }
 }

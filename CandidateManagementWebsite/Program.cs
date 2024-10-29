@@ -13,9 +13,15 @@ builder.Services.AddScoped<ICandidateProfileService, CandidateProfileService>();
 builder.Services.AddScoped<IJobPostingService, JobPostingService>();
 builder.Services.AddScoped<IJobPostingRepo, JobPostingRepo>();
 
+builder.Services.AddScoped<IHRAccountRepo, HRAccountRepo>();
+builder.Services.AddScoped<IHRAccountService, HRAccountService>();
+
 builder.Services.AddDbContext<CandidateManagementWebsiteContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DBConnect") ?? throw new InvalidOperationException("Connection string 'DBConnect' not found.")));
+
+builder.Services.AddSession();
 var app = builder.Build();
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
@@ -25,6 +31,8 @@ if (!app.Environment.IsDevelopment())
 app.UseStaticFiles();
 
 app.UseRouting();
+
+app.UseSession();
 
 app.UseAuthorization();
 
