@@ -1,0 +1,30 @@
+﻿<Window x:Class="CandidateManagement_LeCongHung.CandidateProfileWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CandidateManagement_LeCongHung"
+        mc:Ignorable="d"
+        Title="CandidateProfileWindow" Height="583" Width="805" WindowStartupLocation="CenterScreen" WindowStyle="None">
+    <Grid Margin="0,0,10,17" Loaded="Window_Loaded">
+        <Label Content="CANDIDATE PROFILE MANAGEMENT" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" FontSize="32" FontWeight="Bold"/>
+        <Label Content="Candidate ID" HorizontalAlignment="Left" Margin="10,68,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label Content="FullName" HorizontalAlignment="Left" Margin="10,104,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label Content="Birthday" HorizontalAlignment="Left" Margin="10,176,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label Content="Description" HorizontalAlignment="Left" Margin="414,104,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label Content="ImageURL" HorizontalAlignment="Left" Margin="10,140,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label Content="JobPosting ID" HorizontalAlignment="Left" Margin="414,68,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <TextBox x:Name="txtCandidateID" HorizontalAlignment="Left" Margin="138,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="223" FontSize="16"/>
+        <TextBox x:Name="txtFullName" HorizontalAlignment="Left" Margin="138,108,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="223" FontSize="16"/>
+        <TextBox x:Name="txtImageUrl" HorizontalAlignment="Left" Margin="138,144,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="223" FontSize="16"/>
+        <DatePicker x:Name="txtBirthday" HorizontalAlignment="Left" Margin="138,180,0,0" VerticalAlignment="Top" Width="223"/>
+        <ComboBox x:Name="cmbPostID" HorizontalAlignment="Left" Margin="534,70,0,0" VerticalAlignment="Top" Width="241" FontSize="16"/>
+        <DataGrid x:Name="dtgCandidateProfile" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="10,222,20,89" SelectionChanged="dtgCandidateProfile_SelectionChanged"/>
+        <Button x:Name="btnAdd" Content="Add" HorizontalAlignment="Left" Margin="10,498,0,0" VerticalAlignment="Top" Width="150" Height="40" FontSize="16" FontWeight="Bold" Background="#FF80FF53" Click="btnAdd_Click"/>
+        <Button x:Name="btnClose" Content="Close" HorizontalAlignment="Left" Margin="625,498,0,0" VerticalAlignment="Top" Width="150" Height="40" FontSize="16" FontWeight="Bold" Background="#FFB7B7B7" Click="btnClose_Click"/>
+        <Button x:Name="btnUpdate" Content="Update" HorizontalAlignment="Left" Margin="222,498,0,0" VerticalAlignment="Top" Width="150" Height="40" FontSize="16" FontWeight="Bold" Background="#FF9BEEF9" Click="btnUpdate_Click"/>
+        <Button x:Name="btnDelete" Content="Delete" HorizontalAlignment="Left" Margin="430,498,0,0" VerticalAlignment="Top" Width="150" Height="40" FontSize="16" FontWeight="Bold" Background="#FFF39889" Click="btnDelete_Click"/>
+        <TextBox x:Name="txtDescription" HorizontalAlignment="Left" Margin="414,144,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="361" Height="60"/>
+
+    </Grid>
+</Window>

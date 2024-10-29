@@ -1,0 +1,16 @@
+C:\Users\ASUS\OneDrive\Máy tính\CandidateManagement_LeCongHung\Candidate_DAO\bin\Debug\net8.0\Candidate_DAO.deps.json
+C:\Users\ASUS\OneDrive\Máy tính\CandidateManagement_LeCongHung\Candidate_DAO\bin\Debug\net8.0\Candidate_DAO.dll
+C:\Users\ASUS\OneDrive\Máy tính\CandidateManagement_LeCongHung\Candidate_DAO\bin\Debug\net8.0\Candidate_DAO.pdb
+C:\Users\ASUS\OneDrive\Máy tính\CandidateManagement_LeCongHung\Candidate_DAO\bin\Debug\net8.0\Candidate_BuisinessObjects.dll
+C:\Users\ASUS\OneDrive\Máy tính\CandidateManagement_LeCongHung\Candidate_DAO\bin\Debug\net8.0\Candidate_BuisinessObjects.pdb
+C:\Users\ASUS\OneDrive\Máy tính\CandidateManagement_LeCongHung\Candidate_DAO\obj\Debug\net8.0\Candidate_DAO.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\CandidateManagement_LeCongHung\Candidate_DAO\obj\Debug\net8.0\Candidate_DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Máy tính\CandidateManagement_LeCongHung\Candidate_DAO\obj\Debug\net8.0\Candidate_DAO.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\CandidateManagement_LeCongHung\Candidate_DAO\obj\Debug\net8.0\Candidate_DAO.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\CandidateManagement_LeCongHung\Candidate_DAO\obj\Debug\net8.0\Candidate_DAO.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\CandidateManagement_LeCongHung\Candidate_DAO\obj\Debug\net8.0\Candidat.A763094E.Up2Date
+C:\Users\ASUS\OneDrive\Máy tính\CandidateManagement_LeCongHung\Candidate_DAO\obj\Debug\net8.0\Candidate_DAO.dll
+C:\Users\ASUS\OneDrive\Máy tính\CandidateManagement_LeCongHung\Candidate_DAO\obj\Debug\net8.0\refint\Candidate_DAO.dll
+C:\Users\ASUS\OneDrive\Máy tính\CandidateManagement_LeCongHung\Candidate_DAO\obj\Debug\net8.0\Candidate_DAO.pdb
+C:\Users\ASUS\OneDrive\Máy tính\CandidateManagement_LeCongHung\Candidate_DAO\obj\Debug\net8.0\ref\Candidate_DAO.dll
+C:\Users\ASUS\OneDrive\Máy tính\CandidateManagement_LeCongHung\Candidate_DAO\obj\Debug\net8.0\Candidate_DAO.sourcelink.json

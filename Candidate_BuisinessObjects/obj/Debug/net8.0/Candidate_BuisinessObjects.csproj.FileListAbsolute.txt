@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Máy tính\CandidateManagement_LeCongHung\Candidate_BuisinessObjects\bin\Debug\net8.0\Candidate_BuisinessObjects.deps.json
+C:\Users\ASUS\OneDrive\Máy tính\CandidateManagement_LeCongHung\Candidate_BuisinessObjects\bin\Debug\net8.0\Candidate_BuisinessObjects.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Máy tính\CandidateManagement_LeCongHung\Candidate_BuisinessObjects\bin\Debug\net8.0\Candidate_BuisinessObjects.dll
+C:\Users\ASUS\OneDrive\Máy tính\CandidateManagement_LeCongHung\Candidate_BuisinessObjects\bin\Debug\net8.0\Candidate_BuisinessObjects.pdb
+C:\Users\ASUS\OneDrive\Máy tính\CandidateManagement_LeCongHung\Candidate_BuisinessObjects\obj\Debug\net8.0\Candidate_BuisinessObjects.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\CandidateManagement_LeCongHung\Candidate_BuisinessObjects\obj\Debug\net8.0\Candidate_BuisinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Máy tính\CandidateManagement_LeCongHung\Candidate_BuisinessObjects\obj\Debug\net8.0\Candidate_BuisinessObjects.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\CandidateManagement_LeCongHung\Candidate_BuisinessObjects\obj\Debug\net8.0\Candidate_BuisinessObjects.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\CandidateManagement_LeCongHung\Candidate_BuisinessObjects\obj\Debug\net8.0\Candidate_BuisinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\CandidateManagement_LeCongHung\Candidate_BuisinessObjects\obj\Debug\net8.0\Candidate_BuisinessObjects.dll
+C:\Users\ASUS\OneDrive\Máy tính\CandidateManagement_LeCongHung\Candidate_BuisinessObjects\obj\Debug\net8.0\refint\Candidate_BuisinessObjects.dll
+C:\Users\ASUS\OneDrive\Máy tính\CandidateManagement_LeCongHung\Candidate_BuisinessObjects\obj\Debug\net8.0\Candidate_BuisinessObjects.pdb
+C:\Users\ASUS\OneDrive\Máy tính\CandidateManagement_LeCongHung\Candidate_BuisinessObjects\obj\Debug\net8.0\Candidate_BuisinessObjects.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Máy tính\CandidateManagement_LeCongHung\Candidate_BuisinessObjects\obj\Debug\net8.0\ref\Candidate_BuisinessObjects.dll
+C:\Users\ASUS\OneDrive\Máy tính\CandidateManagement_LeCongHung\Candidate_BuisinessObjects\obj\Debug\net8.0\Candidate_BuisinessObjects.sourcelink.json
